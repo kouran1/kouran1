@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Ruan Sousa — Desenvolvedor de Software" width="100%">
+  <img src="assets/banner.png" alt="Ruan Sousa — Técnico em TI" width="100%">
 </p>
 
 <h1 align="center">Olá, eu sou o Ruan! 👋</h1>
 
 <p align="center">
-  Desenvolvedor de software e Técnico em TI, transformando ideias em sistemas web e desktop.
+  Técnico em TI e estudante de tecnologia, colocando o aprendizado em prática por meio de projetos web e desktop.
 </p>
 
 ## Sobre mim
@@ -59,4 +59,3 @@ Atualmente, continuo aprofundando meus conhecimentos em:
 <p align="center">
   <a href="https://github.com/kouran1">Conheça meus repositórios</a>
 </p>
-
