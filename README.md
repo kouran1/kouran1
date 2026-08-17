@@ -15,7 +15,6 @@
 - 🖥️ Crio sistemas desktop com **C# e Windows Forms**
 - 🗄️ Tenho experiência com modelagem, integração e gerenciamento de bancos de dados
 - 🚀 Estou sempre buscando evoluir, aprender novas tecnologias e enfrentar novos desafios
-- 📚 Gosto de unir tecnologia, criatividade e o universo dos mangás em meus projetos
 
 ## Tecnologias e ferramentas
 
